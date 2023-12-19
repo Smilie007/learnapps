@@ -1,0 +1,13 @@
+Contents of LinkedHashMap : {Samsung Grand uattro price =10000, Micromax canvas price=9000, Sony T2 Ultra price=20000, Nokia Lumia price=15000, Microsoft Lumia price =16000}
+
+Values of linkedHashMapobject after iterating over it :
+
+Samsung Grand uattro price :    10000
+
+Micromax canvas price:            9000
+
+Sony T2 Ultra price:              20000
+
+Nokia Lumia price:               15000
+
+Microsoft Lumia price :           16000
